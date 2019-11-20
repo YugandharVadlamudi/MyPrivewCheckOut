@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--URl for InfoWindow not work with click listener-->
+    <!--https://developers.google.com/maps/documentation/android-sdk/infowindows-->
+</resources>
