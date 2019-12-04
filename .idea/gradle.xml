@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/otpmodel" />
             <option value="$PROJECT_DIR$/recyclerviewexample" />
             <option value="$PROJECT_DIR$/serviceapplication" />
+            <option value="$PROJECT_DIR$/viewmodelexample" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
